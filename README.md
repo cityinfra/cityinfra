@@ -29,4 +29,5 @@ the lonng time goal: have a city infrastructure simulation game thats more reali
     
     
 Q: But dude, I then have to wait ages to until a construction is done 😴
+
 A: This is correct. The game has a mode to speed up time (everything runs faster) or you can yum a specified amount of time forward.
