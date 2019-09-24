@@ -27,6 +27,12 @@ the lonng time goal: have a city infrastructure simulation game thats more reali
     * water supply
     * water transportation
     
+* transportation services
+    * train service
+    * freight service via train
+    * freight service via road
+    * freight service via airplane
+    
     
 Q: But dude, I then have to wait ages to until a construction is done 😴
 
