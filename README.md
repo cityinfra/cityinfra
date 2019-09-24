@@ -17,6 +17,12 @@ the lonng time goal: have a city infrastructure simulation game thats more reali
 * electricity grids with
     * substations
     * power generation
+        * solar
+        * wind
+        * water
+    * power storage
+        * batteries
+        * ?
     * power transportation
 * telecommunication
     * POTS
@@ -26,6 +32,7 @@ the lonng time goal: have a city infrastructure simulation game thats more reali
 * water grids with
     * water supply
     * water transportation
+* post service
     
 * transportation services
     * train service
