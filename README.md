@@ -24,6 +24,8 @@ the lonng time goal: have a city infrastructure simulation game thats more reali
         * batteries
         * ?
     * power transportation
+* natural gas grid
+    * biogas
 * telecommunication
     * POTS
     * mobile network towers
