@@ -20,8 +20,10 @@ the lonng time goal: have a city infrastructure simulation game thats more reali
         * solar
         * wind
         * water
+        * Pumped-storage hydroelectricity
     * power storage
         * batteries
+        * Pumped-storage hydroelectricity
         * ?
     * power transportation
 * natural gas grid
