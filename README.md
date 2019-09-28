@@ -21,6 +21,8 @@ the lonng time goal: have a city infrastructure simulation game thats more reali
         * wind
         * water
         * Pumped-storage hydroelectricity
+        * garbage incinerator
+        * hazardous waste incinerator
     * power storage
         * batteries
         * Pumped-storage hydroelectricity
@@ -37,6 +39,11 @@ the lonng time goal: have a city infrastructure simulation game thats more reali
     * water supply
     * water transportation
 * post service
+* garbage collection
+    * paper
+    * glas
+    * plastic
+    * residual waste
     
 * transportation services
     * train service
