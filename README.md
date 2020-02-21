@@ -35,6 +35,7 @@ the long time goal: have a city infrastructure simulation game thats more realis
     * mobile network towers
     * DSL-Internet
     * DSLAMs
+    * fiber
 * water grids with
     * water supply
     * water transportation
