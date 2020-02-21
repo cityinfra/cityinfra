@@ -2,7 +2,7 @@
 cityinfra game
 
 ## long time goal
-the lonng time goal: have a city infrastructure simulation game thats more realistic
+the long time goal: have a city infrastructure simulation game thats more realistic
 
 ## fundamentals
 * 1 meter in reality is 1 meter in the game
