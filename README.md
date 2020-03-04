@@ -13,6 +13,7 @@ the long time goal: have a city infrastructure simulation game thats more realis
 ## features
 ### infrastructure wise
 * roads
+    * propper traffic management, no CS BS ;)
 * rails
 * electricity grids with
     * substations
